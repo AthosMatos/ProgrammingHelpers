@@ -1,4 +1,0 @@
-C:\Users\SAI DO MEU PC PEXTE\Documents\GrafTrabs\x64\Debug\GrafTrabs.exe
-C:\Users\SAI DO MEU PC PEXTE\Documents\GrafTrabs\x64\Debug\GrafTrabs.pdb
-C:\Users\SAI DO MEU PC PEXTE\Documents\GrafTrabs\visual\x64\Debug\GrafTrabs.exe
-C:\Users\SAI DO MEU PC PEXTE\Documents\GrafTrabs\visual\x64\Debug\GrafTrabs.pdb

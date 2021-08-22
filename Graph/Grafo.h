@@ -14,19 +14,24 @@ public:
 	void Del_Vertice(const wchar_t* NomeVertice);
 	void Del_Vertice_E_Arestas_Conectadas(const wchar_t* NomeVertice);
 	void Del_Aresta(const wchar_t* NomeAresta);
-	
-	void AllVerticesArestasInfo();
+	void PesoMin();
 
+
+	void AllVerticesArestasInfo();
 	void Grafoinfo();
 
 private:
 	Vertices* V_HEAD;
 	Arestas* A_HEAD;
+	MinVnames* Vnames;
 
 	const wchar_t* Gname;
+	bool Pesomin;
+	int ValorMin;
 	
 private:
 	string ConvertString(const wchar_t* Nome);
 	void FullDelete(const wchar_t* Nome);
+	void OrderArestas();
 };
 
