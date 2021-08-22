@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Grafo.cpp">
+      <Filter>Grafo</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Grafo.h">
+      <Filter>Grafo</Filter>
+    </ClInclude>
+    <ClInclude Include="GrafStruct.h">
+      <Filter>Grafo</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Grafo">
+      <UniqueIdentifier>{6c6fc4fe-a1ff-490d-bcef-d862aca5f5c1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
